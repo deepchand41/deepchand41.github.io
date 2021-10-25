@@ -81,7 +81,9 @@ author:
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/deepak-chand-4b7a95152/"
-   
+    - label: "Youtube"
+      icon: "fab fa-youtube"
+      url: "https://www.youtube.com/channel/UCbeJuqUTRacY2s5xsiZJaLg"
     # - label: "Subscribe"
     #   icon: "fas fa-fw fa-envelope"
     #   url: "https://feedburner.google.com/fb/a/mailverify?uri=MadanBaduwal&amp;loc=en_US"
@@ -153,6 +155,7 @@ social:
     - "https://twitter.com/IamParadox_16"
     - "https://github.com/deepchand41"
     - "https://www.linkedin.com/in/deepak-chand-4b7a95152/"
+    - "https://www.youtube.com/channel/UCbeJuqUTRacY2s5xsiZJaLg"
 #    - "https://stackoverflow.com/users/13783264"
 
 google:
