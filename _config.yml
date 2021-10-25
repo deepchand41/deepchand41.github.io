@@ -14,18 +14,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Deepak Chand
-email: madanbaduwal100@gmail.com
-description:  "Machine Learning Engineer|NLP|Perception(computer vision)|Motion and manipulation(robotics)|Social intelligence |General intelligence"
-url: "https://madanbaduwal.github.io"
-twitter_username: MadanBaduwal1
-github_username: MadanBaduwal
-stackoverflow_username: madan-baduwal
-linkiden_username: MadanBaduwal
+email: chanddeepak503@gmail.com
+description:  "Robotics and Embedded Electronics Engineer"
+url: "https://deepchand41.github.io"
+twitter_username: IamParadox_16
+github_username: deepchand41
+# stackoverflow_username: madan-baduwal
+linkiden_username: DeepakChand
 minimal_mistakes_skin: "default"
 search: true
 
 twitter:
-  username: "MadanBaduwal1"
+  username: "IamParadox_16"
 
 # Build settings
 markdown: kramdown
@@ -68,19 +68,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Madan Baduwal"
+  name   : "Deepak Chand"
   avatar : "/images/my-image.jpg"
-  bio    : "Machine Learning Engineer"
+  bio    : "Robotics and Embedded Electronics Engineer"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/MadanBaduwal1"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/MadanBaduwal"
+      url: "https://github.com/deepchand41"
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
-      url: "https://www.linkedin.com/in/madan-baduwal-a688bb186/"
+      url: "https://www.linkedin.com/in/deepak-chand-4b7a95152/"
    
     # - label: "Subscribe"
     #   icon: "fas fa-fw fa-envelope"
@@ -96,10 +96,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/MadanBaduwal1"
+      url: "https://twitter.com/IamParadox_16"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/MadanBaduwal"
+      url: "https://github.com/deepchand41"
 
 defaults:
   # _posts
@@ -142,18 +142,18 @@ comments:
   utterances:
     theme: "github-light" # "github-dark"
     issue_term: "pathname"
-repository: "MadanBaduwal/MadanBaduwal.github.io"
+repository: "deepchand41/deepchand41.github.io"
 
 google-site-verification: "7PTmUxxTjmF3fgdhOmPbB5uNjkzCLD5vhItBRnJJSZY"  # get from google search console
 
 social:
   type:  Person
-  name:  Madan Baduwal
+  name:  Deepak Chand
   links:
-    - "https://twitter.com/MadanBaduwal1"
-    - "https://github.com/MadanBaduwal"
-    - "https://www.linkedin.com/in/madan-baduwal-a688bb186/"
-    - "https://stackoverflow.com/users/13783264"
+    - "https://twitter.com/IamParadox_16"
+    - "https://github.com/deepchand41"
+    - "https://www.linkedin.com/in/deepak-chand-4b7a95152/"
+#    - "https://stackoverflow.com/users/13783264"
 
 google:
   search_engine_id: f40dfec50840f5334
