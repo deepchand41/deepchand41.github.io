@@ -17,8 +17,7 @@ sidebar:
     nav: sidebar-sample
 ---
 
-When I was a child, I am curious about game development.
-Here finally I had launched my first game in the play store name AntiGravity Ball.AntiGravity Ball is just a 2D game made in Unity. Your target is to try to pull the ball downward to get more scores.
+Nyano Nani is an innovative Biomedical equipment designed for the purpose of providing the necessary warmth that the baby requires in the crucial time. It was designed at the National Innovation Center with the sole purpose of building cost-effective and easy-to-use infant warmers where it is overlooked.
 
 <iframe width="700" height="500" src="https://www.youtube.com/embed/Bo6NMnqotOA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
