@@ -1,17 +1,17 @@
 ---
 published: true
-title: AntiGravity Ball
+title: Infant Baby Warmer (NANO NANI)
 layout: single
 date: 2020-01-10T00:00-00:00
 last_modified_at: 2020--01-10T00:00:00-00:00
 author_profile: true
 read_time: true
-permalink : /AntiGravity Ball/
+permalink : /Infant Baby Warmer (NANO NANI)/
 categories: [Projects]
-excerpt : 🎮⚾ AntiGravity Ball is just a 2D an android game. Your target is to try to pull the ball downward to get more scores.
+excerpt :👶 Developing innovative and affordable solutions designed to enhance and modernize healthcare services in Nepal..
 header :
-    og_image : "https://raw.githubusercontent.com/MadanBaduwal/MadanBaduwal.github.io/main/images/3.AntiGravity%20Ball.jpg"
-    teaser: "https://raw.githubusercontent.com/MadanBaduwal/MadanBaduwal.github.io/main/images/3.AntiGravity%20Ball.jpg"
+    og_image : "https://github.com/deepchand41/deepchand41.github.io/tree/main/images/baby-warmer.original.height-500.png"
+    teaser: "https://github.com/deepchand41/deepchand41.github.io/tree/main/images/baby-warmer.original.height-500.png"
 comments : true
 sidebar:
     nav: sidebar-sample
