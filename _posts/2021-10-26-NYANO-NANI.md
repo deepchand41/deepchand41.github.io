@@ -1,10 +1,10 @@
 ---
 published: true
-title: NANO NANI
+title: NYANO NANI
 layout: single
 author_profile: true
 read_time: true
-permalink : /NANO NANI/
+permalink : /NYANO NANI/
 categories: [Projects]
 excerpt : 👶 Developing innovative and affordable solutions designed to enhance and modernize healthcare services in Nepal.
 header :
