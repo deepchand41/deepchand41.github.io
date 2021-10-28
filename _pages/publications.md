@@ -6,8 +6,7 @@ title: "Papers and submissions"
 ---
 
 ## Research
-My research focuses on machine learning, computer vision, natural language processing, and robotics. I explore the various ways to leverage human behavior through computer science technology. I am more broadly interested in applied ML, and applications of ML to mimic human behavior.
-
+My research focuses on robotics, motion planning, navigation, algorithms, and artificial intelligence. Explore the world of robotics and make robots to do works.
 ## Publications
 ----------------
 
