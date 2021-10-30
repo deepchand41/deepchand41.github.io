@@ -8,8 +8,8 @@ permalink : /Autonomous Robot/
 categories: [Projects]
 excerpt : 🤖 Autonomous Service robot that can do mapping, generate map and navigate around by using dynamic path planning. 
 header :
-    og_image : "https://raw.githubusercontent.com/deepchand41/deepchand41.github.io/main/images/baby-warmer.png"
-    teaser: "https://raw.githubusercontent.com/deepchand41/deepchand41.github.io/main/images/baby-warmer.png"
+    og_image : "https://raw.githubusercontent.com/deepchand41/deepchand41.github.io/main/images/robot.jpg"
+    teaser: "https://raw.githubusercontent.com/deepchand41/deepchand41.github.io/main/images/robot.jpg"
 comments : true
 sidebar:
     nav: sidebar-sample
