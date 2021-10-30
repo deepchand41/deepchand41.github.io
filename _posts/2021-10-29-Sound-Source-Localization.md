@@ -6,8 +6,7 @@ author_profile: true
 read_time: true
 permalink : /Sound Source Localization/
 categories: [Projects]
-excerpt : 🤖 Build a system for stationary sound source localization by cubical microphone array consisting eight microphones placed
-on four vertical adjacent faces which is mounted on three wheel omni-directional drive.. 
+excerpt : 🤖 Build a system for stationary sound source localization by cubical microphone array consisting eight microphones placed on four vertical adjacent faces which is mounted on three wheel omni-directional drive.. 
 header :
     og_image : "https://raw.githubusercontent.com/deepchand41/deepchand41.github.io/main/images/SSL.jpg"
     teaser: "https://raw.githubusercontent.com/deepchand41/deepchand41.github.io/main/images/SSL.jpg"
