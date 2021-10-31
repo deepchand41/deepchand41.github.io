@@ -1,10 +1,10 @@
 ---
 published: true
-title: ROS Robot Mapping
+title: ROS gmapping
 layout: single
 author_profile: true
 read_time: true
-permalink : /ROS Robot Mapping/
+permalink : /ROS gmapping/
 categories: [Projects]
 excerpt : 🗺 ROS based robot simulated in Gazebo for mapping unknown environment. 
 header :
