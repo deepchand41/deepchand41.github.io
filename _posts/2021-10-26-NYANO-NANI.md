@@ -26,6 +26,7 @@ Nyano Nani is a low cost baby warmer developed at National Innovation Center, Ne
 ## Deployment in Nepal
 Nyano Nani is Nepal's first bio-medical equipment that fulfills all international safety guidelines. Kirtipur Hospital was first to deploy Nyano Nani, Nepal, and then Khangri Hospital. After that, Nayno Nani gained popularity and a solid customer base. Jyoti Bikas Bank has been buying and supplying Nyano Nani to different health centers in Nepal under their CSR initiative. As of today, health centers in 23 districts of Nepal use Nyano Nani.
  
+ <img src="https://github.com/deepchand41/deepchand41.github.io/blob/71026ce9800887700012792d2d7ec9a93c2fd007/images/places_Nyano_Nani.PNG" width="30%" height="30%">
 
 <iframe width="700" height="500" src="https://www.youtube.com/embed/WeGQjVxKR2k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
